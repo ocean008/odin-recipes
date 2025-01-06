@@ -1,0 +1,17 @@
+body {
+    background-color: lightsalmon
+}
+
+h1, li {
+    text-align: center;
+}
+
+h1 {
+    font-size: 72px;
+}
+
+li {
+    font-size: 32px;
+    background-color: burlywood;
+    color: lightcyan;
+}
