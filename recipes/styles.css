@@ -1,14 +1,21 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #e3f4ff;
   }
 
 h1 {
     text-align: center;
-    background-color: salmon;
+    background-color: #e3f4ff;
+    width: 500px;
+    background: #fff;
+    margin: 16px auto;
+    padding: 8px;
+    border: 10px solid black;
 }
 
 img {
     text-align: center;
+    border: 10px solid black;
 }
 
 .image {
@@ -19,18 +26,32 @@ img {
 
 h2 {
     font-size: 32px;
+    background-color: #e3f4ff;
+    border: 5px solid black;
+    width: 250px;
+    background: #fff;
 }
 
 h3 {
     font-size: 24px;
+    background-color: #e3f4ff;
+    border: 5px solid black;
+    width: 250px;
+    background: #fff;
 }
 
 li {
     font-size: 18px;
+    background-color: #e3f4ff;
+    background: #fff;
+    padding: 12px;
 }
 
 a {
     font-size: 24px;
-    background-color: salmon;
-    color: black;
+    font-size: 24px;
+    background-color: #e3f4ff;
+    border: 5px solid black;
+    width: 250px;
+    background: #fff;
 }
